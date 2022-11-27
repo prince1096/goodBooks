@@ -1,0 +1,14 @@
+.app {
+  max-width: 600px;
+  margin: auto;
+  padding: 30px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #ae8282;
+}
+
+.section-button {
+  cursor: "pointer";
+}
