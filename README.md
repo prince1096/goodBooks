@@ -1,5 +1,8 @@
 # Nano React App Default Javascript Template
 
+![Screenshot (23)](https://user-images.githubusercontent.com/85553942/205508816-95cef260-c913-4a7f-8435-84f4b0c12962.png)
+
+
 The default template project for [nano-react-app](https://github.com/nano-react-app/nano-react-app).
 
 - `npm start` — This will spawn a development server with a default port of `5173`.
